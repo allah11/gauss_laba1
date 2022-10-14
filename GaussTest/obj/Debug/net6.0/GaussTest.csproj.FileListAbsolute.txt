@@ -1,0 +1,6 @@
+C:\Users\kosty\source\repos\Gauss1\GaussTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\kosty\source\repos\Gauss1\GaussTest\obj\Debug\net6.0\GaussTest.csproj.AssemblyReference.cache
+C:\Users\kosty\source\repos\Gauss1\GaussTest\obj\Debug\net6.0\GaussTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosty\source\repos\Gauss1\GaussTest\obj\Debug\net6.0\GaussTest.AssemblyInfoInputs.cache
+C:\Users\kosty\source\repos\Gauss1\GaussTest\obj\Debug\net6.0\GaussTest.AssemblyInfo.cs
+C:\Users\kosty\source\repos\Gauss1\GaussTest\obj\Debug\net6.0\GaussTest.csproj.CoreCompileInputs.cache
